@@ -1,3 +1,3 @@
-# pywheatmap
-Plotting complex heatmap in python
+# Emmer
+Create complex plots in Python
 
